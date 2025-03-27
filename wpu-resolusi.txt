@@ -2,3 +2,4 @@ Resolusi Tahun Ini:
 - Expert Python (Maret - Desember)
 - Expert Ruby (Mei - Desember)
 - Belajar Robotika (Juli)
+- Belajar Arduino (September)
